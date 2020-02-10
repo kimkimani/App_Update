@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "209706427911",
+    "firebase_url": "https://autoupdate-4b1f1.firebaseio.com",
+    "project_id": "autoupdate-4b1f1",
+    "storage_bucket": "autoupdate-4b1f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209706427911:android:a8399ace5af609b8",
+        "android_client_info": {
+          "package_name": "tips.admin.tipsscore.autoupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209706427911-v4eepelfecv57hegqn7r467ol17nap61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJLMFYgtQJyvyjNEwS24mI0p9YUIKKvUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
